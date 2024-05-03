@@ -1,0 +1,17 @@
+{
+  "name": "enter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This project implements a simple registration form using Node.js with Express. Users can fill out the form with their username, email, password, and other details, and upon submission, the server responds with a confirmation message.",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {}
+}
